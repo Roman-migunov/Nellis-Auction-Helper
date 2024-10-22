@@ -1,6 +1,6 @@
 # Privacy Policy for Nellis Auction Helper Chrome Extension
 
-Last Updated: [Current Date]
+Last Updated: 10/22/2024
 
 ## Overview
 Nellis Auction Helper is a browser extension that enhances your shopping experience on Nellis Auction by calculating fees and providing price comparisons. We are committed to protecting your privacy.
@@ -29,4 +29,4 @@ The extension only:
 This privacy policy may be updated occasionally. Please check back for any changes.
 
 ## Contact
-If you have any questions about this privacy policy, please contact [Your Email]
+If you have any questions about this privacy policy, please contact roman.migunov@gmail.com
